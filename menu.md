@@ -3,16 +3,17 @@ title: Menu
 position: 1
 hero-image: "/uploads/born-and-raised-39.jpg"
 hero-text: Menu
-intro-text: Our menus can and will change but at the heart will always be our sourdough base. Here’s some examples to get your taste buds tingling!
+intro-text: Our menus can and will change but at the heart will always be our sourdough
+  base. Here’s some examples to get your taste buds tingling!
 menu:
 - title: Cobble Lane Pepperoni
-  description: mozzarella, plum tomatoes and basil 
+  description: mozzarella, plum tomatoes and basil
   extra: on a sourdough base
 - title: Old Spot Pork Shoulder
-  description: caramelised apple and watercress 
+  description: caramelised apple and watercress
   extra: on a sourdough base
 - title: Rosary Goats Cheese
-  description: caramelised onions and watercress 
+  description: caramelised onions and watercress
   extra: on a beetroot-infused sourdough base
 - title: Portobello Mushroom
   description: mozzarella, plum tomatoes, summer truffle oil and basil
@@ -27,3 +28,4 @@ extra-text: |-
   We do drinks at private events
 layout: food
 ---
+

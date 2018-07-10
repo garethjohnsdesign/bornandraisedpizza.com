@@ -3,7 +3,10 @@ title: Story
 position: 3
 hero-image: "/uploads/born-and-raised-61.jpg"
 hero-text: Our Story
-intro-text: Head chef Tom Dewey, who trained under Gary Rhodes, built Born & Raised on the concept of fine Italian pizza dough combined with responsibly sourced British ingredients.  We built an oven inside our Land Rover and took our creations to the streets of London.
+intro-text: Head chef Tom Dewey, who trained under Gary Rhodes, built Born & Raised
+  on the concept of fine Italian pizza dough combined with responsibly sourced British
+  ingredients.  We built an oven inside our Land Rover and took our creations to the
+  streets of London.
 details:
 - title: Our Food
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor

@@ -1,9 +1,9 @@
 ---
 title: Find Us
 position: 2
-intro-text: 'The landy and our gazebo also appear regularly at various markets across London
-  including Kings Cross on Saturdays and Sunday Keep an eye on social channels
-  for the latest goings on.'
+intro-text: The landy and our gazebo also appear regularly at various markets across
+  London including Kings Cross on Saturdays and Sunday Keep an eye on social channels
+  for the latest goings on.
 locations:
 - title: Kerb Markets
   map: markets

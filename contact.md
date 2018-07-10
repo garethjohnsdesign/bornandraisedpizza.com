@@ -3,8 +3,8 @@ title: Contact
 position: 5
 details:
 - title: General
-  text: "[hello@bornandraisedpizza.com](mailto:bornandraisedpizza.com)  \n[+44 7709 844443](tel:07709844443)
-    \ "
+  text: "[hello@bornandraisedpizza.com](mailto:bornandraisedpizza.com)  \n[+44 7709
+    844443](tel:07709844443)  "
 - title: Follow Us
   text: "[Instagram](https://www.instagram.com)  \n[Twitter](https://twitter.com)"
 - title: Collaborators
@@ -25,8 +25,8 @@ details:
   text: Whether you loved it or felt we could do better, we want to hear it so we
     can either say thanks or make sure we put it right next time.
 - title: Legal
-  text: "Born & Raised Ltd  \n50a Walford Road \nLondon, United
-    Kingdom  \nN16 8ED\n\nCompany — 09880183"
+  text: "Born & Raised Ltd  \n50a Walford Road \nLondon, United Kingdom  \nN16 8ED\n\nCompany
+    — 09880183"
 layout: contact
 ---
 

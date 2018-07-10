@@ -35,9 +35,9 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 colophon: http://garethjohnsdesign.com
-company: Born & Raised 
+company: Born & Raised
 email: hello@bornandraisedpizza.com
-analytics:
+analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%d %B %Y"
