@@ -9,6 +9,20 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitattributes",
+		"oF": 0
+		},
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/404.md": {
 		"cB": 0,
 		"cS": 0,
@@ -172,12 +186,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/story.html",
-		"oF": 0
-		},
-	"\/_site": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/_site",
 		"oF": 0
 		},
 	"\/_uploads\/born-and-raised-01.jpg": {
