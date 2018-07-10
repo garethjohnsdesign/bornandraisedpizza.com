@@ -9497,6 +9497,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/location.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/location.sketch",
+		"oF": 0
+		},
 	"\/menu.md": {
 		"cB": 0,
 		"cS": 0,
