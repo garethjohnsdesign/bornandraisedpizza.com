@@ -1,0 +1,57 @@
+---
+title: Born & Raised
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+url: https://www.bornandraisedpizza.com
+description: British Inspired Wood-Fired Pizza
+permalink: pretty
+exclude:
+- bower.json
+- Gemfile.lock
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+markdown: kramdown
+kramdown:
+  auto_ids: false
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+colophon: http://garethjohnsdesign.com
+company: Born & Raised 
+email: hello@bornandraisedpizza.com
+analytics:
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%d %B %Y"
+future: true
+social:
+  instagram: https://www.instagram.com/bornandraisedpizza/
+  facebook: https://www.facebook.com/bornandraisedpizza/
+  twitter: https://twitter.com/bornraisedpizza
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+imgix:
+  source: born-and-raised.imgix.net
+menu-file: "/uploads/born-and-raised-menu.pdf"
