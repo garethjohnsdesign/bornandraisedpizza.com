@@ -9445,7 +9445,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/hire-us.md",
+		"oAP": "\/hire-us.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -9497,13 +9497,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/location.sketch": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/location.sketch",
-		"oF": 0
-		},
 	"\/menu.md": {
 		"cB": 0,
 		"cS": 0,
@@ -9513,7 +9506,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/menu.md",
+		"oAP": "\/menu.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
